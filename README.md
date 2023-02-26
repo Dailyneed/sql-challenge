@@ -19,7 +19,8 @@ Perform the following on the CSV files:
 
 
 ## Results
-![EmployeeSQL-ERD](https://user-images.githubusercontent.com/115572537/221439402-13dafe71-bc99-4ca4-beed-d9ba1ce90369.png)
+![QuickDBD-export](https://user-images.githubusercontent.com/115572537/221441555-20ee3fe0-5249-4f6e-a5c6-1d71c1ace295.png)
+
 
 
 ## Reference

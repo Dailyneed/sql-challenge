@@ -23,7 +23,7 @@ Perform the following on the CSV files:
 
 
 ## Reference
-
+Jason Lepelmeier,(2023, Feb 23). Class lecture: Power point slides 9.3 Data Modeling. Data Analytics and Visualization Bootcamp. University of Minnesota.https://umn.bootcampcontent.com/University-of-Minnesota-Boot-Camp/UofM-VIRT-DATA-PT-12-2022-U-LOLC/-/blob/main/SQL/3/9.3%20Data%20Modeling.pdf
 
 
 
